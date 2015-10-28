@@ -1,4 +1,4 @@
-# docker-oraclelinux
+# huhgawz/oraclelinux
 
 `Oracle Linux` with extra packages:
 - `nano`
