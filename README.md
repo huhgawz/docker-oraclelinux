@@ -2,7 +2,7 @@
 
 ## Introduction
 
-`Oracle Linux` with extra packages:
+Dockerized `Oracle Linux` with extra packages:
 - `nano`
 - `sudo`
 - `unzip`
