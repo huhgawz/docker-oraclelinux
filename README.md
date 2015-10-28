@@ -10,7 +10,7 @@ Dockerized `Oracle Linux` with extra packages:
 
 ## Installation
 
-Automated builds of the image are available at: [huhgawz/oraclelinux](https://hub.docker.com/r/huhgawz/oraclelinux/).
+Automated builds of the image are available at: [huhgawz/oraclelinux](https://hub.docker.com/r/huhgawz/oraclelinux/)
 
 This is the recommended installation method:
 
