@@ -4,9 +4,7 @@
 
 Dockerized `Oracle Linux` with extra packages:
 - `nano`
-- `sudo`
 - `unzip`
-- `wget`
 
 ## Installation
 
